@@ -20,14 +20,14 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Bartosz Jarocki",
-  initials: "BJ",
-  location: "Wrocław, Poland, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  name: "Akorede Adetola",
+  initials: "AA",
+  location: "Lagos, Nigeria, WAT",
+  locationLink: "https://www.google.com/maps/place/lagos",
   about:
-    "Full Stack Engineer focused on building products with extra attention to detail",
+    "Passionate Machine Learning Engineer",
   summary:
-    "As a Full Stack Engineer, I have successfully taken multiple products from 0 to 1. I lead teams effectively, ensuring an environment where people can do their best work. Currently, I work mostly with TypeScript, React, Node.js, and GraphQL. I have over 8 years of experience in working remotely with companies all around the world.",
+    "Hi, i am Akorede, a passionate learner, Machine Learning Enthusiast, Mechanical Design Engineer, i work an operate on the basis of the first principles. I do believe i have the capacity to impact the world in some sense",
   avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
   personalWebsiteUrl: "https://jarocki.me",
   contact: {
@@ -53,21 +53,21 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
-      start: "2007",
-      end: "2010",
+      school: "Olabisi Onabanjo Unviersity",
+      degree: "Bachelor's of Engineering Degree in Mechanical Engineering",
+      start: "2019",
+      end: "2024",
     },
   ],
   work: [
     {
-      company: "Parabol",
-      link: "https://parabol.co",
-      badges: ["Remote"],
-      title: "Senior Full Stack Developer",
+      company: "Sage Labs",
+      link: "https://sagelabs.com",
+      badges: ["On-prem"],
+      title: "Founder",
       logo: ParabolLogo,
-      start: "2021",
-      end: "2024",
+      start: "2024",
+      end: "present",
       description:
         "Implemented new features, led squad, worked on improving the way developers ship the code, started migration from Emotion to Tailwind CSS and more. Technologies: React, TypeScript, GraphQL",
     },
